@@ -35,7 +35,7 @@ $ bower install --save angular-resource
 $ bower install --save fontawesome
 $ npm install --save-dev gulp-angular-templatecache
 $ npm install --save-dev gulp-uncss
-$ npm install gulp-angular-filesort
+$ npm install --save-dev gulp-angular-filesort
 ```
 
 ## Usage
