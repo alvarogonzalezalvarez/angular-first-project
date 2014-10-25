@@ -47,6 +47,10 @@ $ gulp
 $ gulp build
 $ gulp server-dist
 ```
+### URL
+```
+http://localhost:8080/
+```
 
 ## License
 
