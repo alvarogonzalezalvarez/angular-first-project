@@ -28,11 +28,6 @@ $ npm install --save-dev nib
 $ npm install --save-dev jshint-stylish
 $ npm install --save-dev gulp-inject
 $ npm install --save-dev wiredep
-$ bower install --save angular
-$ bower install --save bootstrap
-$ bower install --save angular-route
-$ bower install --save angular-resource
-$ bower install --save fontawesome
 $ npm install --save-dev gulp-angular-templatecache
 $ npm install --save-dev gulp-uncss
 $ npm install --save-dev gulp-angular-filesort
