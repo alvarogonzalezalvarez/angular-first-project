@@ -2,6 +2,40 @@
 
 Basic Angular Webapp with Gulp automated tasks.
 
+## Dependencies
+### Prerequisites
+
+**Install Git and Node.js**
+
+### Global Dependencies
+```
+$ npm install -g gulp
+$ npm install -g bower
+$ npm install -g stylus
+```
+### Project Dependencies
+```
+$ npm install --save-dev gulp
+$ npm install --save-dev gulp-connect
+$ npm install --save-dev connect-history-api-fallback
+$ npm install --save-dev gulp-jshint
+$ npm install --save-dev gulp-useref
+$ npm install --save-dev gulp-if
+$ npm install --save-dev gulp-uglify
+$ npm install --save-dev gulp-minify-css
+$ npm install --save-dev gulp-stylus
+$ npm install --save-dev nib
+$ npm install --save-dev jshint-stylish
+$ npm install --save-dev gulp-inyect
+$ npm install --save-dev wiredep
+$ bower install --save angular
+$ bower install --save bootstrap
+$ bower install --save angular-route
+$ bower install --save angular-resource
+$ bower install --save fontawesome
+$ npm install --save-dev gulp-angular-templatecache
+$ npm install --save-dev gulp-uncss
+
 ## Usage
 ### Development mode
 ```
