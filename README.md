@@ -35,6 +35,7 @@ $ bower install --save angular-resource
 $ bower install --save fontawesome
 $ npm install --save-dev gulp-angular-templatecache
 $ npm install --save-dev gulp-uncss
+```
 
 ## Usage
 ### Development mode
