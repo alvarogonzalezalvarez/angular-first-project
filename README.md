@@ -26,7 +26,7 @@ $ npm install --save-dev gulp-minify-css
 $ npm install --save-dev gulp-stylus
 $ npm install --save-dev nib
 $ npm install --save-dev jshint-stylish
-$ npm install --save-dev gulp-inyect
+$ npm install --save-dev gulp-inject
 $ npm install --save-dev wiredep
 $ bower install --save angular
 $ bower install --save bootstrap
@@ -35,6 +35,7 @@ $ bower install --save angular-resource
 $ bower install --save fontawesome
 $ npm install --save-dev gulp-angular-templatecache
 $ npm install --save-dev gulp-uncss
+$ npm install gulp-angular-filesort
 ```
 
 ## Usage
