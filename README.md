@@ -33,6 +33,7 @@ $ npm install --save-dev gulp-uncss
 $ npm install --save-dev gulp-angular-filesort
 ```
 ### Used Libraries
+**Already included inside the 'lib' directory**
 ```
 $ bower install --save angular
 $ bower install --save bootstrap
