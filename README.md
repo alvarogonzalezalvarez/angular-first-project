@@ -32,6 +32,14 @@ $ npm install --save-dev gulp-angular-templatecache
 $ npm install --save-dev gulp-uncss
 $ npm install --save-dev gulp-angular-filesort
 ```
+### Used Libraries
+```
+$ bower install --save angular
+$ bower install --save bootstrap
+$ bower install --save angular-route
+$ bower install --save angular-resource
+$ bower install --save fontawesome
+```
 
 ## Usage
 ### Development mode
